@@ -1,4 +1,11 @@
 def naive_encoding_worst_case():
+	"""
+	Naive math encoding of a chess position
+
+	Returns:
+		A maximal number of bytes to encode a chess position
+	"""
+
 	# 33 options
 	# 64 positions
 
